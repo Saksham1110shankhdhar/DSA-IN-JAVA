@@ -31,5 +31,7 @@ public class Power {
         }
 
         System.out.println(power);
+
+        sc.close();
     }
 }
