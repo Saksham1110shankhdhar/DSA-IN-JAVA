@@ -1,0 +1,301 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StarHollowRectangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarHollowRectangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarTriHorizontalFlipped",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarTriHorizontalFlipped",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AlphaNumericTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.AlphaNumericTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AlphabateTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.AlphabateTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.NumberTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberSquare",
+      "request": "launch",
+      "mainClass": "PatternPrinting.NumberSquare",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AlphabateSquare2",
+      "request": "launch",
+      "mainClass": "PatternPrinting.AlphabateSquare2",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SquaringAlpha",
+      "request": "launch",
+      "mainClass": "PatternPrinting.SquaringAlpha",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AlphabateSquare",
+      "request": "launch",
+      "mainClass": "PatternPrinting.AlphabateSquare",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AP",
+      "request": "launch",
+      "mainClass": "AP",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AbsoluteValue",
+      "request": "launch",
+      "mainClass": "AbsoluteValue",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AreaGreaterPerimeter",
+      "request": "launch",
+      "mainClass": "AreaGreaterPerimeter",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Baisc",
+      "request": "launch",
+      "mainClass": "Baisc",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "CompositeNumber",
+      "request": "launch",
+      "mainClass": "CompositeNumber",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "CountDigitofNumber",
+      "request": "launch",
+      "mainClass": "CountDigitofNumber",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "DivisiblityBy5or3",
+      "request": "launch",
+      "mainClass": "DivisiblityBy5or3",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "DivisiblityChecker",
+      "request": "launch",
+      "mainClass": "DivisiblityChecker",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "GP",
+      "request": "launch",
+      "mainClass": "GP",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "IfElse",
+      "request": "launch",
+      "mainClass": "IfElse",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "IntegerChecker",
+      "request": "launch",
+      "mainClass": "IntegerChecker",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "Loops",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MagnitudeChecker",
+      "request": "launch",
+      "mainClass": "MagnitudeChecker",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberDivisibleby3",
+      "request": "launch",
+      "mainClass": "NumberDivisibleby3",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "OddNumber",
+      "request": "launch",
+      "mainClass": "OddNumber",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarRectangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarRectangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PointPositionChecker",
+      "request": "launch",
+      "mainClass": "PointPositionChecker",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "Power",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintingAlphabates",
+      "request": "launch",
+      "mainClass": "PrintingAlphabates",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ProfitandLoss",
+      "request": "launch",
+      "mainClass": "ProfitandLoss",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "ReverseNumber",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SideCheckerofTriangle",
+      "request": "launch",
+      "mainClass": "SideCheckerofTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SumofDigits",
+      "request": "launch",
+      "mainClass": "SumofDigits",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Tables",
+      "request": "launch",
+      "mainClass": "Tables",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "TerniaryOperator",
+      "request": "launch",
+      "mainClass": "TerniaryOperator",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "VolumeOfSphere",
+      "request": "launch",
+      "mainClass": "VolumeOfSphere",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "fourDigitChecker",
+      "request": "launch",
+      "mainClass": "fourDigitChecker",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "practiceAP",
+      "request": "launch",
+      "mainClass": "practiceAP",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Run StarRectangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarRectangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    }
+  ]
+}
