@@ -2,33 +2,19 @@ package PatternPrinting;
 
 import java.util.Scanner;
 
-public class Rhombus {
+public class Dimond {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the number : ");
-        int num = sc.nextInt();
+        System.out.println("Enter the number of row:");
 
-        for (int i = 1; i <= num; i++) {
-            for (int j = 1; j <= num-i; j++) {
-                System.out.print(" " + " ");
-            }
-            for (int k = 1; k <= num; k++) {
-                System.out.print("* ");
-            }
+        int n = sc.nextInt();
 
-            System.out.println();
+        // Upper Pyramid
 
-            
-        }
+        int nsp = n - 1, nst = 1;
 
-         // Second Method
-
-        System.out.println();
-
-        int nsp = num - 1, nst = num;
-
-        for (int i = 1; i <= num; i++) {
+        for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= nsp; j++) {
                 System.out.print(" " + " ");
             }
@@ -37,7 +23,25 @@ public class Rhombus {
             }
 
             nsp--;
-           
+            nst += 2;
+            System.out.println();
+        }
+
+        // Lower Pyramid
+
+        nsp = 1;
+        nst -= 4;
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= nsp; j++) {
+                System.out.print(" " + " ");
+            }
+            for (int j = 1; j <= nst; j++) {
+                System.out.print("* ");
+            }
+
+            nsp++;
+            nst -= 2;
             System.out.println();
         }
 

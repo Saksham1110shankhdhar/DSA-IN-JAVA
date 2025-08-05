@@ -2,33 +2,31 @@ package PatternPrinting;
 
 import java.util.Scanner;
 
-public class Rhombus {
+public class Pyramid {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the number : ");
-        int num = sc.nextInt();
+        System.out.println("Enter the number of row:");
 
-        for (int i = 1; i <= num; i++) {
-            for (int j = 1; j <= num-i; j++) {
+        int n = sc.nextInt();
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n - i; j++) {
                 System.out.print(" " + " ");
             }
-            for (int k = 1; k <= num; k++) {
+            for (int j = 1; j <= 2 * i - 1; j++) {
                 System.out.print("* ");
             }
-
             System.out.println();
-
-            
         }
 
-         // Second Method
+        // Second Method
 
         System.out.println();
 
-        int nsp = num - 1, nst = num;
+        int nsp = n - 1, nst = 1;
 
-        for (int i = 1; i <= num; i++) {
+        for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= nsp; j++) {
                 System.out.print(" " + " ");
             }
@@ -37,7 +35,7 @@ public class Rhombus {
             }
 
             nsp--;
-           
+            nst += 2;
             System.out.println();
         }
 
