@@ -6,6 +6,146 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HCF",
+      "request": "launch",
+      "mainClass": "Methods.HCF",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "nCr",
+      "request": "launch",
+      "mainClass": "Methods.nCr",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "fActorial",
+      "request": "launch",
+      "mainClass": "Methods.fActorial",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "Methods.swap",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberSpiral",
+      "request": "launch",
+      "mainClass": "PatternPrinting.NumberSpiral",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberZoom",
+      "request": "launch",
+      "mainClass": "PatternPrinting.NumberZoom",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PracticePattern",
+      "request": "launch",
+      "mainClass": "PatternPrinting.PracticePattern",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Bridge",
+      "request": "launch",
+      "mainClass": "PatternPrinting.Bridge",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Dimond",
+      "request": "launch",
+      "mainClass": "PatternPrinting.Dimond",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Pyramid",
+      "request": "launch",
+      "mainClass": "PatternPrinting.Pyramid",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ODDStar",
+      "request": "launch",
+      "mainClass": "PatternPrinting.ODDStar",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Rhombus",
+      "request": "launch",
+      "mainClass": "PatternPrinting.Rhombus",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "AlphabetTriangleVerticallyFlipped",
+      "request": "launch",
+      "mainClass": "PatternPrinting.AlphabetTriangleVerticallyFlipped",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberTriangleVerticallyFlipped",
+      "request": "launch",
+      "mainClass": "PatternPrinting.NumberTriangleVerticallyFlipped",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarTriangleVerticalFlipped",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarTriangleVerticalFlipped",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.BinaryTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "OddNumberTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.OddNumberTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "floydTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrinting.floydTriangle",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarCross",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarCross",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "StarPLus",
+      "request": "launch",
+      "mainClass": "PatternPrinting.StarPLus",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "StarHollowRectangle",
       "request": "launch",
       "mainClass": "PatternPrinting.StarHollowRectangle",
