@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.RotateArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ReverseOfArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.ReverseOfArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "forEachloop",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.forEachloop",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ShallowCopyandDeepCopy",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.ShallowCopyandDeepCopy",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MultiplyODDindexandAddEVEN",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.MultiplyODDindexandAddEVEN",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MaxElement",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.MaxElement",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ProductofArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.ProductofArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SumofArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.SumofArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintNegativeElement",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.PrintNegativeElement",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "TakingBlankArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.TakingBlankArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "BasicofArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.BasicofArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "HCF",
       "request": "launch",
       "mainClass": "Methods.HCF",
