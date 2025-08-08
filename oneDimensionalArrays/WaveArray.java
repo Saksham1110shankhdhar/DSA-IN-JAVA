@@ -46,7 +46,7 @@ public class WaveArray {
             System.out.print(arr[i]+" ");
         }
 
-        
+        sc.close();
        
     }
 }
