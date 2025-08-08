@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WaveArray",
+      "request": "launch",
+      "mainClass": "oneDimensionalArrays.WaveArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "RotateArray",
       "request": "launch",
       "mainClass": "oneDimensionalArrays.RotateArray",
