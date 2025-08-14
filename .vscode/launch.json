@@ -6,6 +6,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Basics",
+      "request": "launch",
+      "mainClass": "TwoDArrayList.Basics",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "TransposeOfMatrix",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.TransposeOfMatrix",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ColumnWiseSnake",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.ColumnWiseSnake",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ReverseRowInMatrix",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.ReverseRowInMatrix",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SnakePattern",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.SnakePattern",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintingUsingForEach",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.PrintingUsingForEach",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ColumnWisePrint",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.ColumnWisePrint",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MinOutofMaxElementInRow",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.MinOutofMaxElementInRow",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "rowWithMaximumSum",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.rowWithMaximumSum",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "maximumElement",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.maximumElement",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Sumof2DArray",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.Sumof2DArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "BasicOF2dArrays",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrays.BasicOF2dArrays",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ArrayLists",
+      "request": "launch",
+      "mainClass": "LearningArrayLists.ArrayLists",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "WaveArray",
       "request": "launch",
       "mainClass": "oneDimensionalArrays.WaveArray",
