@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Bubble_Sort_Reverse",
+      "request": "launch",
+      "mainClass": "Sorting.Bubble_Sort_Reverse",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Bubble_Sort",
+      "request": "launch",
+      "mainClass": "Sorting.Bubble_Sort",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "Basics",
       "request": "launch",
       "mainClass": "TwoDArrayList.Basics",
