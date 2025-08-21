@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "Sorting.InsertionSort",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSortSwapfirstLarger",
+      "request": "launch",
+      "mainClass": "Sorting.SelectionSortSwapfirstLarger",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "Sorting.SelectionSort",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "Bubble_Sort_Reverse",
       "request": "launch",
       "mainClass": "Sorting.Bubble_Sort_Reverse",
