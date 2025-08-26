@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Desending_Sorted_Array",
+      "request": "launch",
+      "mainClass": "Sorting.Desending_Sorted_Array",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Binary_Search",
+      "request": "launch",
+      "mainClass": "Sorting.Binary_Search",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "InsertionSort",
       "request": "launch",
       "mainClass": "Sorting.InsertionSort",
