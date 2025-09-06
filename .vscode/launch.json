@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringBuilderExample",
+      "request": "launch",
+      "mainClass": "Strings.StringBuilderExample",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ComparingTwoString",
+      "request": "launch",
+      "mainClass": "Strings.ComparingTwoString",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintAllSubString",
+      "request": "launch",
+      "mainClass": "Strings.PrintAllSubString",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "SubString",
+      "request": "launch",
+      "mainClass": "Strings.SubString",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "DigitsInNumber",
+      "request": "launch",
+      "mainClass": "Strings.DigitsInNumber",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PalendromPRO",
+      "request": "launch",
+      "mainClass": "Strings.PalendromPRO",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "NumberOfVowelsandConsonests",
+      "request": "launch",
+      "mainClass": "Strings.NumberOfVowelsandConsonests",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "BasicOfString",
+      "request": "launch",
+      "mainClass": "Strings.BasicOfString",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "Desending_Sorted_Array",
       "request": "launch",
       "mainClass": "Sorting.Desending_Sorted_Array",
