@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 
 
-public class Des {
+public class SearchInDescendingSortedARRay {
 
     public static void Binary_search(int arr[],int target){
 
