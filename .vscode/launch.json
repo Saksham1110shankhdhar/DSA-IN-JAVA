@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseEachWord",
+      "request": "launch",
+      "mainClass": "Strings.ReverseEachWord",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "StringBuilderExample",
       "request": "launch",
       "mainClass": "Strings.StringBuilderExample",
