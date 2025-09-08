@@ -9,6 +9,8 @@ public class BasicOfString{
 
         char ch=sc.next().charAt(0);
 
+        System.out.println(ch);
+
         String input=sc.nextLine();
 
        

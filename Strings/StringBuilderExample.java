@@ -20,6 +20,8 @@ public class StringBuilderExample {
         StringBuilder m= new StringBuilder(sc.nextLine());
 
         System.out.print(m);
+        
+        sc.close();
 
     }
 }
