@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AraisedToPowerB",
+      "request": "launch",
+      "mainClass": "Recursion.AraisedToPowerB",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Recursion.Factorial",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "DecreasingAndIncreasing",
+      "request": "launch",
+      "mainClass": "Recursion.DecreasingAndIncreasing",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintN",
+      "request": "launch",
+      "mainClass": "Recursion.PrintN",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "ReverseEachWord",
       "request": "launch",
       "mainClass": "Strings.ReverseEachWord",
