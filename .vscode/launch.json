@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrintSum",
+      "request": "launch",
+      "mainClass": "Recursion.PrintSum",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrintElementOfArray",
+      "request": "launch",
+      "mainClass": "Recursion.PrintElementOfArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "AraisedToPowerB",
       "request": "launch",
       "mainClass": "Recursion.AraisedToPowerB",
