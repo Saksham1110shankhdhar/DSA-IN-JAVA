@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AdvanceMerge2SortedArray",
+      "request": "launch",
+      "mainClass": "Sorting.AdvanceMerge2SortedArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Merge2SortedArray",
+      "request": "launch",
+      "mainClass": "Sorting.Merge2SortedArray",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "TowerOfHanoi",
+      "request": "launch",
+      "mainClass": "Recursion.TowerOfHanoi",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "PrintSum",
       "request": "launch",
       "mainClass": "Recursion.PrintSum",
