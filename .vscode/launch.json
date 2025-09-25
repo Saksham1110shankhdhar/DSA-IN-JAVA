@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ParameterizedConstructor",
+      "request": "launch",
+      "mainClass": "Oops.ParameterizedConstructor",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ParametrizedConstructor",
+      "request": "launch",
+      "mainClass": "Oops.ParametrizedConstructor",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "PrivateKeybWordjava",
+      "request": "launch",
+      "mainClass": "Oops.PrivateKeybWordjava",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "BasicofOops",
+      "request": "launch",
+      "mainClass": "Oops.BasicofOops",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "Sorting.MergeSort",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "AdvanceMerge2SortedArray",
       "request": "launch",
       "mainClass": "Sorting.AdvanceMerge2SortedArray",
