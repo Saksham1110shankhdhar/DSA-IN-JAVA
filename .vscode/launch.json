@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "basicOFlinklist",
+      "request": "launch",
+      "mainClass": "LinkList.basicOFlinklist",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Inheritence",
+      "request": "launch",
+      "mainClass": "Oops.Inheritence",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "MyArrayList",
+      "request": "launch",
+      "mainClass": "Oops.MyArrayList",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "staticKeyword",
+      "request": "launch",
+      "mainClass": "Oops.staticKeyword",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "thisKeyword",
+      "request": "launch",
+      "mainClass": "Oops.thisKeyword",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "ParameterizedConstructor",
       "request": "launch",
       "mainClass": "Oops.ParameterizedConstructor",
