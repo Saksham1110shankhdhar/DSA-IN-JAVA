@@ -20,14 +20,14 @@ public class basicOFlinklist {
         System.out.print(head.data+"->");
 
         displayRecursion(head.next);
-    }
+    } 
 
      public static void print(Node head) {
         Node temp= head;
 
         while(temp!=null){
             System.out.print(temp.data+"->");
-            temp=temp.next;
+            temp=temp.next; 
         }
         System.out.print("NULL");
      }
