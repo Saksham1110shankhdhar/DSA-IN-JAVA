@@ -14,7 +14,7 @@ public class reverseASublist {
         
         Node temp=dummy;
         
-        for(int i=0; i<r+2; i++){
+        for(int i=0; i<=r+1; i++){
             if(i==l-1){
                 a=temp;
             }else if(i==l){
