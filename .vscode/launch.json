@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "implementation",
+      "request": "launch",
+      "mainClass": "LinkList.DoublyLinkedlist.implementation",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "basicOFlinklist",
       "request": "launch",
       "mainClass": "LinkList.basicOFlinklist",
