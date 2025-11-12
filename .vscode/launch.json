@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stackTraversal",
+      "request": "launch",
+      "mainClass": "Stack.stackTraversal",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "Intro",
+      "request": "launch",
+      "mainClass": "Stack.Intro",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "implementation",
       "request": "launch",
       "mainClass": "LinkList.DoublyLinkedlist.implementation",
