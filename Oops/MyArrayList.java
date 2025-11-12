@@ -10,6 +10,8 @@ class ownArrayList{
         
     }
 
+ 
+
     void add(int element){
         if(idx==arr.length){
             increaseCapacity();
