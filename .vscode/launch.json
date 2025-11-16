@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "removeOddElement",
+      "request": "launch",
+      "mainClass": "Queue.removeOddElement",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "operationsInQueue",
+      "request": "launch",
+      "mainClass": "Queue.operationsInQueue",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "traversalInAQueue",
+      "request": "launch",
+      "mainClass": "Queue.traversalInAQueue",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ImplementationStackViaLL",
+      "request": "launch",
+      "mainClass": "Stack.ImplementationStackViaLL",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "reverseStackUsingRecursion",
+      "request": "launch",
+      "mainClass": "Stack.reverseStackUsingRecursion",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "pushAtBottomRecursive",
+      "request": "launch",
+      "mainClass": "Stack.pushAtBottomRecursive",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStack",
+      "request": "launch",
+      "mainClass": "Stack.ReverseStack",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "pushPopPeekInApostionINstack",
+      "request": "launch",
+      "mainClass": "Stack.pushPopPeekInApostionINstack",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "stackTraversal",
       "request": "launch",
       "mainClass": "Stack.stackTraversal",
