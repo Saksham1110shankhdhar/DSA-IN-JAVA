@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ImplementationQueueLL",
+      "request": "launch",
+      "mainClass": "Queue.ImplementationQueueLL",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
+      "name": "reverseAQueue",
+      "request": "launch",
+      "mainClass": "Queue.reverseAQueue",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "removeOddElement",
       "request": "launch",
       "mainClass": "Queue.removeOddElement",

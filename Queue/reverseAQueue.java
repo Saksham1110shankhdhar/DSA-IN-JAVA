@@ -2,8 +2,9 @@ package Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
-public class removeOddElement {
+public class reverseAQueue {
     public static void main(String[] args) {
         Queue<Integer> q= new LinkedList<>();
 
@@ -15,16 +16,19 @@ public class removeOddElement {
 
         int n=q.size();
 
-        for(int i=0;i<n;i++){
-            int ele=q.remove();
+       System.out.println(q);
 
-            if(i%2==0){
-                q.add(ele);
-            }
+        Stack<Integer> st= new Stack<>();
+
+        for(int i=0;i<n;i++){
+            st.push(q.remove());
         }
 
-        int m=q.size();
-        for(int i=0;i<m;i++){
+        while(st.size()>0){
+            q.add(st.pop());
+        }
+
+        for(int i=0;i<n;i++){
             System.out.print(q.remove()+" ");
         }
     }
