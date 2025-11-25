@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "implementation",
+      "request": "launch",
+      "mainClass": "BinarySearchTree.implementation",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "ImplementationQueueLL",
       "request": "launch",
       "mainClass": "Queue.ImplementationQueueLL",
