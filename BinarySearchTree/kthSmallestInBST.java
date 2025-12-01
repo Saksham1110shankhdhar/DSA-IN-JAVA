@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+
+public class kthSmallestInBST {
+    public int kthSmallest(Node root, int k) {
+       ArrayList<Integer> arr= new ArrayList<>();
+       inorder(root,arr); 
+       
+      if(k>arr.size()) return -1;
+      return arr.get(k-1);
+        
+    }
+    private void inorder(Node root, ArrayList<Integer> arr) {
+       if(root==null){
+        return;
+       }
+       inorder(root.left,arr);
+       arr.add(root.data);
+       inorder(root.right,arr);
+    }
+}

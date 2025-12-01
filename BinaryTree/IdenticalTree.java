@@ -1,4 +1,4 @@
-package BinarySearchTree;
+package BinaryTree;
 
 public class IdenticalTree {
      public boolean isIdentical(Node p, Node q) {

@@ -1,4 +1,4 @@
-package BinarySearchTree;
+package BinaryTree;
 
 public class MirrorTree {
      void mirror(Node root) {

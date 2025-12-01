@@ -1,18 +1,25 @@
-package BinarySearchTree;
+package BinaryTree;
 
 import java.util.ArrayList;
 
-public class rightViewOfBinaryTree {
-    private  int levels(Node a) {
+public class leftViewOfBinaryTree {
+     private  int levels(Node a) {
         if(a==null){
-            return 0;
+        return 0;
         }
         return 1+Math.max(levels(a.left),levels(a.right));
     }
     
-    public ArrayList<Integer> rightView(Node root) {
-        int []arr=new int[levels(root)];
-        dfs(root,0,arr);
+    
+   public ArrayList<Integer> leftView(Node root) {
+        int l = levels(root);
+        int arr[] = new int[l];
+        
+        for (int i = 0; i < l; i++) arr[i] = -1;
+        
+        dfs(root, 0, arr);
+
+
         ArrayList<Integer> ans= new ArrayList<>();
         for(int ele:arr){
             ans.add(ele);
@@ -26,8 +33,10 @@ public class rightViewOfBinaryTree {
         }
        //System.out.print(a.data+" ");
        //size++;
-       arr[levels]=(root.data);
+        if (arr[levels] == -1)
+            arr[levels] = root.data;
+      
        dfs(root.left,levels+1,arr);
        dfs(root.right,levels+1,arr);
-    }
+    } 
 }
