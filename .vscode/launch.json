@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "priorityQueueBasics",
+      "request": "launch",
+      "mainClass": "Heaps.priorityQueueBasics",
+      "projectName": "DSA IN JAVA_762ae0e1"
+    },
+    {
+      "type": "java",
       "name": "implementation",
       "request": "launch",
       "mainClass": "BinarySearchTree.implementation",
