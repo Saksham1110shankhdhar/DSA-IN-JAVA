@@ -1,8 +1,5 @@
 package LinkList;
 
-import java.lang.classfile.components.ClassPrinter.ListNode;
-import java.util.ArrayList;
-
 public class palindromeLL {
     class Solution {
     public boolean isPalindrome(Node head) {

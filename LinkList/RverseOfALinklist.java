@@ -1,7 +1,5 @@
 package LinkList;
 
-import java.util.ArrayList;
-
 public class RverseOfALinklist {
     
 class Solution {
